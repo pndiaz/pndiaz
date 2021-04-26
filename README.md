@@ -11,9 +11,9 @@ My name is Pablo Nicolás Diaz and I'm a Software Engineer living in Córdoba, A
 
 I like to solve problems and get the perfect solution for the users. I'm not the kind of developer that knows everything about a particular language, but I like to learn new technologies that help me to get the best solution possible.
 
-***My skills*** (In expertise order)
+## My skills (In expertise order)
 
-**Back-end**
+* Back-end
 
 <a href="https://java.com/" title="Java"><img height="40" src="icons/java.png" /></a>
 <a href="https://golang.org/" title="Golang"><img height="40" src="icons/golang.png" /></a>
@@ -21,7 +21,7 @@ I like to solve problems and get the perfect solution for the users. I'm not the
 <a href="http://csharp.net/" title="C#"><img height="40" src="icons/csharp.png" /></a>
 <a href="https://www.python.org/" title="Python"><img height="40" src="icons/python.png" /></a>
 
-**Front-end**
+* Front-end
 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img  height="40" src="icons/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img  height="40" src="icons/typescript.png" /></a>
@@ -29,19 +29,19 @@ I like to solve problems and get the perfect solution for the users. I'm not the
 <a title="css"><img height="40" src="icons/css.png" /></a>
 
 
-**Databases**
+* Databases
 
 <a href="https://www.mysql.com/" title="MySQL"><img height="40" src="icons/mysql.png" /></a>
 <a href="https://www.mongodb.com/" title="Mongo"><img height="40" src="icons/mongodb.png" /></a>
 <a href="https://www.elastic.co/" title="Elastic"><img height="40" src="icons/elastic.jpg" /></a>
 
-**Cloud Servers**
+* Cloud Servers
 
 <a href="https://firebase.google.com/" title="Firebase"><img height="40" src="icons/firebase.png"/></a>
 <a href="https://cloud.google.com/" title="GPC"><img height="40" src="icons/gcp.png"/></a>
 <a href="https://aws.amazon.com/" title="AWS"><img height="40" src="icons/aws.png"/></a>
 
-**Tools**\
+* Tools
 
 <a href="https://github.com/" title="GitHub"><img height="40" src="icons/github.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img height="40" src="icons/git.png" /></a>
