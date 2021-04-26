@@ -37,9 +37,9 @@ I like to solve problems and get the perfect solution for the users. I'm not the
 
 **Cloud Servers**
 
-<a href="https://firebase.google.com/" title="Firebase"><img height="40" src="icons/firebase.png" /></a>
-<a href="https://cloud.google.com/" title="GPC"><img height="40" src="icons/gcp.jpg" /></a>
-<a href="https://aws.amazon.com/" title="AWS"><img height="40" src="icons/aws.jpg" /></a>
+<a href="https://firebase.google.com/" title="Firebase"><img height="40" src="icons/firebase.png"/></a>
+<a href="https://cloud.google.com/" title="GPC"><img height="40" src="icons/gcp.png"/></a>
+<a href="https://aws.amazon.com/" title="AWS"><img height="40" src="icons/aws.png"/></a>
 
 **Tools**\
 
