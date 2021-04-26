@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-Software Engineer living in Córdoba, Argentina.
+My name is Pablo Nicolás Diaz and I'm a Software Engineer living in Córdoba, Argentina.
 
 I like to solve problems and get the perfect solution for the users. I'm not the kind of developer that knows everything about a particular language, but I like to learn new technologies that help me to get the best solution possible.
 
@@ -17,7 +17,7 @@ I like to solve problems and get the perfect solution for the users. I'm not the
 
 <a href="https://java.com/" title="Java"><img height="40" src="icons/java.png" /></a>
 <a href="https://golang.org/" title="Golang"><img height="40" src="icons/golang.png" /></a>
-groovy
+<a href="https://groovy-lang.org/" title="Groovy"><img height="40" src="icons/groovy.png" /></a>
 <a href="http://csharp.net/" title="C#"><img height="40" src="icons/csharp.png" /></a>
 <a href="https://www.python.org/" title="Python"><img height="40" src="icons/python.png" /></a>
 
@@ -25,18 +25,21 @@ groovy
 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img  height="40" src="icons/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img  height="40" src="icons/typescript.png" /></a>
-html5
-css
+<a title="html"><img height="40" src="icons/html5.png" /></a>
+<a title="css"><img height="40" src="icons/css.png" /></a>
+
 
 **Databases**
 
 <a href="https://www.mysql.com/" title="MySQL"><img height="40" src="icons/mysql.png" /></a>
-mongoDB
-elasticSearch
+<a href="https://www.mongodb.com/" title="Mongo"><img height="40" src="icons/mongodb.png" /></a>
+<a href="https://www.elastic.co/" title="Elastic"><img height="40" src="icons/elastic.jpg" /></a>
 
 **Cloud Servers**
 
-firebase, googlecloud, aws
+<a href="https://firebase.google.com/" title="Firebase"><img height="40" src="icons/firebase.jpg" /></a>
+<a href="https://cloud.google.com/" title="GPC"><img height="40" src="icons/gcp.jpg" /></a>
+<a href="https://aws.amazon.com/" title="AWS"><img height="40" src="icons/aws.jpg" /></a>
 
 **Tools**\
 
