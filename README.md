@@ -15,26 +15,33 @@ I like to solve problems and get the perfect solution for the users. I'm not the
 
 **Back-end**
 
-<a href="https://java.com/" title="dotNet"><img src="icons/java.png" /></a>
-<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
-<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
+<a href="https://java.com/" title="Java"><img height="40" src="icons/java.png" /></a>
+<a href="https://golang.org/" title="Golang"><img height="40" src="icons/golang.png" /></a>
+groovy
+<a href="http://csharp.net/" title="C#"><img height="40" src="icons/csharp.png" /></a>
+<a href="https://www.python.org/" title="Python"><img height="40" src="icons/python.png" /></a>
 
 **Front-end**
 
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img  height="40" src="icons/javascript.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img  height="40" src="icons/typescript.png" /></a>
+html5
+css
 
 **Databases**
 
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-
+<a href="https://www.mysql.com/" title="MySQL"><img height="40" src="icons/mysql.png" /></a>
+mongoDB
+elasticSearch
 
 **Cloud Servers**
 
+firebase, googlecloud, aws
 
 **Tools**\
 
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://github.com/" title="GitHub"><img height="40" src="icons/github.png" /></a>
+<a href="https://git-scm.com/" title="Git"><img height="40" src="icons/git.png" /></a>
+<a href="https://www.docker.com/" title="Docker"><img height="40" src="icons/docker.png" /></a>
 
 
