@@ -11,23 +11,17 @@ My name is Pablo Nicolás Diaz and I'm a Software Engineer living in Córdoba, A
 
 I like to solve problems and get the perfect solution for the users. I'm not the kind of developer that knows everything about a particular language, but I like to learn new technologies that help me to get the best solution possible.
 
-### My skills (In expertise order)
+### My skills 
 
-* Back-end
-
-  <a href="https://java.com/" title="Java"><img height="40" src="icons/java.png" /></a>
-  <a href="https://golang.org/" title="Golang"><img height="40" src="icons/golang.png" /></a>
-  <a href="https://groovy-lang.org/" title="Groovy"><img height="40" src="icons/groovy.png" /></a>
-  <a href="http://csharp.net/" title="C#"><img height="40" src="icons/csharp.png" /></a>
-  <a href="https://www.python.org/" title="Python"><img height="40" src="icons/python.png" /></a>
-
-* Front-end
+* Languages
 
   <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img  height="40" src="icons/javascript.png" /></a>
   <a href="https://www.typescriptlang.org/" title="TypeScript"><img  height="40" src="icons/typescript.png" /></a>
-  <a title="html"><img height="40" src="icons/html5.png" /></a>
-  <a title="css"><img height="40" src="icons/css.png" /></a>
-
+  <a href="https://golang.org/" title="Golang"><img height="40" src="icons/golang.png" /></a>
+  <a href="https://java.com/" title="Java"><img height="40" src="icons/java.png" /></a>
+  <a href="https://www.python.org/" title="Python"><img height="40" src="icons/python.png" /></a>
+  <a href="https://groovy-lang.org/" title="Groovy"><img height="40" src="icons/groovy.png" /></a>
+  <a href="http://csharp.net/" title="C#"><img height="40" src="icons/csharp.png" /></a>
 
 * Databases
 
