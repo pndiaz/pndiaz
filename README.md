@@ -1,7 +1,7 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/pablo-nicolas-diaz/">
-  <img align="left" alt="Pablo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+  <img align="left" alt="Pablo's LinkedIN" width="22px" />
 </a>
 
 <br/>
