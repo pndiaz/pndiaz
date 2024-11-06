@@ -9,8 +9,6 @@
 
 My name is Pablo Nicolás Diaz and I'm a Software Engineer living in Córdoba, Argentina.
 
-I like to solve problems and get the perfect solution for the users. I'm not the kind of developer that knows everything about a particular language, but I like to learn new technologies that help me to get the best solution possible.
-
 ### My skills 
 
 * Languages
