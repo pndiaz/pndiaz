@@ -18,8 +18,6 @@ My name is Pablo Nicolás Diaz and I'm a Software Engineer living in Córdoba, A
   <a href="https://golang.org/" title="Golang"><img height="40" src="icons/golang.png" /></a>
   <a href="https://java.com/" title="Java"><img height="40" src="icons/java.png" /></a>
   <a href="https://www.python.org/" title="Python"><img height="40" src="icons/python.png" /></a>
-  <a href="https://groovy-lang.org/" title="Groovy"><img height="40" src="icons/groovy.png" /></a>
-  <a href="http://csharp.net/" title="C#"><img height="40" src="icons/csharp.png" /></a>
 
 * Databases
 
@@ -27,7 +25,7 @@ My name is Pablo Nicolás Diaz and I'm a Software Engineer living in Córdoba, A
   <a href="https://www.mongodb.com/" title="Mongo"><img height="40" src="icons/mongodb.png" /></a>
   <a href="https://www.elastic.co/" title="Elastic"><img height="40" src="icons/elastic.jpg" /></a>
 
-* Cloud Servers
+* Cloud
 
   <a href="https://firebase.google.com/" title="Firebase"><img height="40" src="icons/firebase.png"/></a>
   <a href="https://cloud.google.com/" title="GPC"><img height="40" src="icons/gcp.png"/></a>
